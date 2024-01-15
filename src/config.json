@@ -1,19 +1,20 @@
 {
-    "name":"My Project",
+    "name":"Balls are hurt",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
     "website":"",
     "twitter":"",
     "discord":"",
-    "rpc":"",
+    "rpc":"https://rpc.atlantic-2.seinetwork.io",
     "network":"atlantic-2", 
-    "collection_address":"", 
+    "collection_address":"sei1c8za2vu026ezqu2d4ehu97za5lyaqc8altk8h8x846ngfn2srqksalmr7n", 
     "nft_name_type": "default",
     "groups":[
         {
             "name":"whitelist",
             "allowlist":[
                 "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
+                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge",
+                "sei1a278y9s9t9dkxr3amujk0lxy9pdh8ets6ymhrg"
             ] 
         },
         {
